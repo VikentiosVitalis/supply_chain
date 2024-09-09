@@ -1,7 +1,7 @@
 # Supply Chain Analysis
 
 <p align="center">
-  <img src="files/logo.png" alt="Supply Chain Custom Image" width="400" height="200" />
+  <img src="files/logo.png" alt="Supply Chain Custom Image" width="450" height="200" />
 </p>
 
 ## Overview
